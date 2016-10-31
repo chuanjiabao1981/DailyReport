@@ -24,4 +24,4 @@
 
 ## 开始
 
-[[日报汇总]]
+[日报汇总](https://github.com/chuanjiabao1981/DailyReport/wiki/%E6%97%A5%E6%8A%A5%E6%B1%87%E6%80%BB)
