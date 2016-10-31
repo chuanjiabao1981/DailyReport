@@ -20,7 +20,7 @@
 [工作内容2] (链接2)|完成进度|预计完成时间|风险链接
 
 ```
-[示例](日报示例)
+[示例](https://github.com/chuanjiabao1981/DailyReport/wiki/%E6%97%A5%E6%8A%A5%E7%A4%BA%E4%BE%8B)
 
 ## 开始
 
