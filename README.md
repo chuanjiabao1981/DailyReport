@@ -27,3 +27,4 @@
 ## 开始
 
 [日报汇总](https://github.com/chuanjiabao1981/DailyReport/wiki/%E6%97%A5%E6%8A%A5%E6%B1%87%E6%80%BB)
+[绩效考核](https://github.com/chuanjiabao1981/DailyReport/blob/master/%E7%BB%A9%E6%95%88%E8%80%83%E6%A0%B8.md)
